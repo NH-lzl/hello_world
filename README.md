@@ -1,3 +1,3 @@
-# hello_word
+# hello_world
 Just another repository
 hello c++
